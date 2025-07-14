@@ -14,6 +14,6 @@ ElVit/ElVit is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-if you like my work you can buy me a coffee ☕❤️  
+If you like my work you can buy me a coffee ☕❤️  
   
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K71HZZEU)
